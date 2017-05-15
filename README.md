@@ -1,5 +1,4 @@
 # seteuid
-Seteuid example with explanation
 There are two cases,
 
 You want to temporarily drop root privilege while executing setuid program
